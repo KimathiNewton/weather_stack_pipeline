@@ -1,0 +1,41 @@
+{
+    "request": {
+        "type": "City",
+        "query": "Nairobi, Kenya",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Nairobi",
+        "country": "Kenya",
+        "region": "Nairobi Area",
+        "lat": "-1.283",
+        "lon": "36.817",
+        "timezone_id": "Africa/Nairobi",
+        "localtime": "2025-01-22 17:48",
+        "localtime_epoch": 1737568080,
+        "utc_offset": "3.0"
+    },
+    "current": {
+        "observation_time": "02:48 PM",
+        "temperature": 17,
+        "weather_code": 113,
+        "weather_icons": [
+            "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+        ],
+        "weather_descriptions": [
+            "Clear "
+        ],
+        "wind_speed": 9,
+        "wind_degree": 28,
+        "wind_dir": "NNE",
+        "pressure": 1015,
+        "precip": 0,
+        "humidity": 62,
+        "cloudcover": 5,
+        "feelslike": 17,
+        "uv_index": 0,
+        "visibility": 10,
+        "is_day": "no"
+    }
+}
